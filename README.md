@@ -154,17 +154,17 @@ So what are you waiting for? Learn Python in a way that will advance your career
 
 ### 1. Command Line basics
 
-// See in which folder you are in
-`pwd`
-// Go to a new directory
-`cd Documents`
-// Move back in folders
-`cd ..`
-// Create a folder
-`mkdir my-folder`
-// Delete file
-`rm -r test-file.txt`
-// Delete folder
+// See in which folder you are in  
+`pwd`  
+// Go to a new directory  
+`cd Documents`  
+// Move back in folders  
+`cd`
+// Create a folder  
+`mkdir my-folder`  
+// Delete file  
+`rm -r test-file.txt`  
+// Delete folder  
 `rm -rf my-folder`
 
 ### 2. Installing Python (Step by Step)
@@ -201,4 +201,4 @@ https://gitimmersion.com/
 
 ## Section 3: Python Object and Data Structure Basics
 
-## Folder 01: 
+## Folder 01:
