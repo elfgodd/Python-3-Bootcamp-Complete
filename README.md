@@ -201,4 +201,34 @@ https://gitimmersion.com/
 
 ## Section 3: Python Object and Data Structure Basics
 
-## Folder 01:
+## Folder 01: object-and-data-structure-basics
+
+### 1. Resources for More Basic Practice
+
+
+Some helpful links for practice
+
+Basic Practice:  
+http://codingbat.com/python  
+
+More Mathematical (and Harder) Practice:  
+https://projecteuler.net/archives  
+
+List of Practice Problems:  
+http://www.codeabbey.com/index/task_list  
+
+A SubReddit Devoted to Daily Practice Problems:  
+https://www.reddit.com/r/dailyprogrammer  
+
+A very tricky website with very few hints and touch problems (Not for beginners but still interesting)  
+http://www.pythonchallenge.com/  
+
+
+## Section 4: Python Comparison Operators
+
+## Folder 02: comparison-operators
+
+## Section 5: Python Statements
+
+## Folder 03: statements
+

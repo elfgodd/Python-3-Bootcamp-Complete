@@ -1,8 +1,8 @@
 # 2022 Complete Python Bootcamp From Zero to Hero in Python
 
-Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games
-Instructor: **Jose Portilla**
-Course Repository:
+Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games  
+Instructor: **Jose Portilla**  
+Course Repository:  
 https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
 
 ### What you'll learn:
@@ -154,17 +154,17 @@ So what are you waiting for? Learn Python in a way that will advance your career
 
 ### 1. Command Line basics
 
-// See in which folder you are in
-`pwd`
-// Go to a new directory
-`cd Documents`
-// Move back in folders
-`cd ..`
-// Create a folder
-`mkdir my-folder`
-// Delete file
-`rm -r test-file.txt`
-// Delete folder
+// See in which folder you are in  
+`pwd`  
+// Go to a new directory  
+`cd Documents`  
+// Move back in folders  
+`cd`
+// Create a folder  
+`mkdir my-folder`  
+// Delete file  
+`rm -r test-file.txt`  
+// Delete folder  
 `rm -rf my-folder`
 
 ### 2. Installing Python (Step by Step)
@@ -172,12 +172,12 @@ So what are you waiting for? Learn Python in a way that will advance your career
 Just search only for your OS proper Python installation
 there are installers for Linux, Mac and Windows OS
 
-// For linux Fedore, Example:
-https://tecadmin.net/how-to-install-anaconda-on-fedora/
+// For linux Fedore, Example:  
+https://tecadmin.net/how-to-install-anaconda-on-fedora/  
 https://docs.anaconda.com/anaconda/user-guide/getting-started/#open-nav-lin
 
-// To launch Anaconda Navigator
-`anaconda-navigator`
+// To launch Anaconda Navigator  
+`anaconda-navigator`  
 Then in Home, launch Jupyter notebook
 
 // For FREE "No Install" Options:
@@ -193,10 +193,42 @@ Then in Home, launch Jupyter notebook
 - May not save your code in the free version!
 - Not officially part of this course or supported by this course!
 
-Git and Github Overview (Optional)
-https://docs.github.com/en/get-started/quickstart/hello-world
-https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources
-https://docs.github.com/en/get-started/quickstart/set-up-git
+Git and Github Overview (Optional)  
+https://docs.github.com/en/get-started/quickstart/hello-world  
+https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources  
+https://docs.github.com/en/get-started/quickstart/set-up-git  
 https://gitimmersion.com/
 
-## Section 2: Python Object and Data Structure Basics
+## Section 3: Python Object and Data Structure Basics
+
+## Folder 01: object-and-data-structure-basics
+
+### 1. Resources for More Basic Practice
+
+
+Some helpful links for practice
+
+Basic Practice:  
+http://codingbat.com/python  
+
+More Mathematical (and Harder) Practice:  
+https://projecteuler.net/archives  
+
+List of Practice Problems:  
+http://www.codeabbey.com/index/task_list  
+
+A SubReddit Devoted to Daily Practice Problems:  
+https://www.reddit.com/r/dailyprogrammer  
+
+A very tricky website with very few hints and touch problems (Not for beginners but still interesting)  
+http://www.pythonchallenge.com/  
+
+
+## Section 4: Python Comparison Operators
+
+## Folder 02: comparison-operators
+
+## Section 5: Python Statements
+
+## Folder 03: statements
+
